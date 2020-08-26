@@ -8,3 +8,5 @@ This will give an historical view of the kind of crises a company faced in its h
   **Company** : Boeing
   
 ![Analysis](https://github.com/analogguy/Stock-Duration-To-Come-Back-From-Crisis/blob/master/Capture-%20Boeing%20table.JPG)
+
+The whole code was written in Google Colab Ipython notebook.
